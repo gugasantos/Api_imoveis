@@ -1,0 +1,16 @@
+=> [34;4mApp\Models\RealState[39;24m {#4502
+     [34mid[39m: [35m2[39m,
+     [34muser_id[39m: [35m1[39m,
+     [34mtitle[39m: "[32mApartamento Edited de verdade[39m",
+     [34mdescription[39m: "[32mApartamento no jardins[39m",
+     [34mcontent[39m: "[32mConteudo[39m",
+     [34mprice[39m: [33m19.9[39m,
+     [34mbathrooms[39m: [35m1[39m,
+     [34mbedrooms[39m: [35m2[39m,
+     [34mproperty_area[39m: [35m200[39m,
+     [34mtotal_property_area[39m: [35m400[39m,
+     [34mslug[39m: "[32mapartamento[39m",
+     [34mcreated_at[39m: "[32m2022-06-27 04:38:13[39m",
+     [34mupdated_at[39m: "[32m2022-06-27 04:46:03[39m",
+   }
+
