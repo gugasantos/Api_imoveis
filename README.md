@@ -62,3 +62,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+## Aula na Udemy
+
+
+https://www.udemy.com/course/laravel-construindo-apis-rest/learn/lecture/16566596#questions

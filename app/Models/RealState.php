@@ -29,5 +29,10 @@ class RealState extends Model
 
         return $this->hasMany(RealStatePhoto::class);
     }
+
+    public function address()
+    {
+        $this->belongTo(Address::class);
+    }
     use HasFactory;
 }
